@@ -18,7 +18,8 @@ I am a 3rd-year Computer Science student at Lodz University of Technology with a
 
 ### Key Projects:
 
-* **[Listogether](https://github.com/gwaleksander/Listogether)** - A social mobile app with real-time sync, expense tracking, and shared tasks. (React Native, Expo, Firebase)
+* **[Listogether](https://github.com/gwaleksander/Listogether-showcase)** - A social mobile app with real-time sync, expense tracking, and shared tasks. (React Native, Expo, Firebase)
+* * **[FleetManager](https://github.com/gwaleksander/FleetManager)** - A Spring Boot web app for managing a vehicle fleet, with rentals, approvals, PDF contracts, and secure role-based access. (Java, Spring Boot, PostgreSQL, Thymeleaf)
 * **[Custom Heap Manager](https://github.com/gwaleksander/Custom-Memory-Manager)** - A manual implementation of `malloc`, `free`, and `realloc` with memory guard fences. (C)
 * **[FAT16 Parser](https://github.com/gwaleksander/FAT16-Filesystem-Parser)** - A low-level filesystem explorer for FAT16 binary images. (C)
 * **[Pure PHP Gradebook](https://github.com/gwaleksander/Pure-PHP-Gradebook)** - A full school management system written in raw PHP without frameworks.
