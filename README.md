@@ -1,19 +1,12 @@
 # Hi there, I'm Aleksander! 👋
 
-### 👨‍💻 Software Engineering Student | React Native & Embedded Developer
+### Software Engineering Student
 
 I am a 3rd-year Computer Science student at Lodz University of Technology with a passion for building high-performance applications. I bridge the gap between **modern mobile/web interfaces** and **low-level system engineering**.
 
 ---
 
-### 🛠️ What I'm working on:
-- 📱 **Mobile:** Developing **Listogether**, a real-time collaborative app for groups (React Native & Firebase).
-- 🏢 **Commercial:** Building a professional **CRM/Warehouse Management System** for Smart Soft Solutions.
-- ⚙️ **Systems:** Exploring memory management and file system architectures in C.
-
----
-
-### 🧰 Tech Stack:
+### Tech Stack:
 
 | Category | Technologies |
 | --- | --- |
@@ -23,7 +16,7 @@ I am a 3rd-year Computer Science student at Lodz University of Technology with a
 
 ---
 
-### 🌟 Key Projects:
+### Key Projects:
 
 * **[Listogether](https://github.com/gwaleksander/Listogether)** - A social mobile app with real-time sync, expense tracking, and shared tasks. (React Native, Expo, Firebase)
 * **[Custom Heap Manager](https://github.com/gwaleksander/Custom-Memory-Manager)** - A manual implementation of `malloc`, `free`, and `realloc` with memory guard fences. (C)
