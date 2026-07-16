@@ -1,8 +1,8 @@
 # Hi there, I'm Aleksander! 👋
 
-### Software Engineering Student
+### Software Engineering Student & Full-Stack Developer
 
-I am a 3rd-year Computer Science student at Lodz University of Technology with a passion for building high-performance applications. I bridge the gap between **modern mobile/web interfaces** and **low-level system engineering**.
+I am a 3rd-year Computer Science student at Lodz University of Technology (PŁ) with a passion for building high-performance, strongly-typed applications. I bridge the gap between **modern web/mobile interfaces** and **low-level system engineering**.
 
 ---
 
@@ -10,12 +10,12 @@ I am a 3rd-year Computer Science student at Lodz University of Technology with a
 
 | Category | Technologies |
 | --- | --- |
-| **High-Level** | TypeScript, React Native (Expo), React.js, Next.js, Node.js, PHP |
-| **Low-Level** | C, C++, STM32 (ARM), Assembly, Linux |
-| **Tools & Backend** | Firebase, PostgreSQL, Docker, Git, Valgrind, Jira |
+| **Backend** | Java (Spring Boot, Data JPA, Hibernate), C# (.NET Core, EF Core, LINQ), Node.js (Express.js) |
+| **Frontend & Mobile** | TypeScript, JavaScript, React.js, React Native (Expo), HTML5 / CSS3 |
+| **System-Level** | C, Linux, Memory Management (Pointers), Data Structures & Algorithms, Bash |
+| **Databases & Tools** | PostgreSQL, MS SQL Server, Docker, Git, GDB, Valgrind, Jira, CI/CD |
 
 ---
-
 ### Key Projects:
 
 * **[Listogether](https://github.com/gwaleksander/Listogether-showcase)** - A social mobile app with real-time sync, expense tracking, and shared tasks. (React Native, Expo, Firebase)
